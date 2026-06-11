@@ -36,32 +36,15 @@ currently: "여러 분야를 넘나들며 이것저것 만드는 중"
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="130"><b>Language</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend / Bot</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,discordjs" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+사용하는 기술 스택은 포트폴리오 페이지에 정리해 두었습니다.
+
+<a href="https://fehe.dev">
+  <img src="https://img.shields.io/badge/View%20Tech%20Stack-fehe.dev-6C8EFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
 
 <!-- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  DIVIDER  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
