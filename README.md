@@ -4,7 +4,7 @@
 
 <!-- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  HEADER  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ -->
 <a href="https://fehe.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Fehe%20%C2%B7%20%ED%8E%98%ED%97%A4&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Discord%20Bot%20%26%20Web%20Developer&descSize=22&descAlignY=56" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Fehe%20%C2%B7%20%ED%8E%98%ED%97%A4&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Discord%20Bot%20%26%20Web%20Developer&descSize=22&descAlignY=56&v=2" />
 </a>
 
 <div align="center">
@@ -98,4 +98,4 @@ currently: "여러 분야를 넘나들며 이것저것 만드는 중"
 <br/>
 
 <!-- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  FOOTER  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&fontAlignY=70&v=2" />
