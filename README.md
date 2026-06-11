@@ -4,7 +4,7 @@
 
 <!-- ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  HEADER  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ -->
 <a href="https://fehe.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Fehe%20%C2%B7%20%ED%8E%98%ED%97%A4&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Discord%20Bot%20%26%20Web%20Developer&descSize=22&descAlignY=56&v=2" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Fehe%20%C2%B7%20%ED%8E%98%ED%97%A4&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Discord%20Bot%20%C2%B7%20Web%20Developer&descSize=22&descAlignY=56&v=3" />
 </a>
 
 <div align="center">
